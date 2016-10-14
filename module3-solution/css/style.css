@@ -45,11 +45,11 @@ body
 
 
 
-/*.navbar-toggle .icon-bar 
+.navbar-toggle .icon-bar 
 {
 display:block;
 
-}*/
+}
 
 @media (min-width: 767px){
 	.nav-toggle 
@@ -65,7 +65,8 @@ display:block;
 
 hr
 {
-	width:300px;
+	width:767px;
+	margin:0 0 0 ;
 }
 #nav-list a { 
 color:#fff;
