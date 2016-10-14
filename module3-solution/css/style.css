@@ -45,11 +45,11 @@ body
 
 
 
-.navbar-toggle .icon-bar 
+/*.navbar-toggle .icon-bar 
 {
 display:block;
 
-}
+}*/
 
 @media (min-width: 767px){
 	.nav-toggle 
@@ -63,11 +63,11 @@ display:block;
 	padding-bottom: 20px;
 }
 
-hr
+/*hr
 {
-	width:767px;
-	margin:0 0 0 ;
-}
+
+	padding-left:0;
+}*/
 #nav-list a { 
 color:#fff;
 text-align: center;
