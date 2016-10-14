@@ -75,8 +75,9 @@ padding-bottom: 0;
 
 #menu
 {
- margin-right:15px;
- margin-left:15px;
+ margin-right:45px;
+ margin-left:20px;
+ width: 90%;
 
 }
 
@@ -113,11 +114,14 @@ padding-top: 15px;
 		
 	}
 
+
+	/*#menu 
 	
-	#menu 
 	{
 		width:90%;
-	}
+	}*/
+
+	
 
 }
 
@@ -129,14 +133,21 @@ padding-top: 15px;
 
 	}
 
-	#menu 
+	/*#menu 
 	{
 		width:90%;
-	}
+	}*/
 }
 
 @media (min-width: 767px)
 {
+
+#menu 
+	{
+		
+		padding-right: 50px;
+	}
+
 }
 
 
