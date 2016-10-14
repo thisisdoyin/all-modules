@@ -80,7 +80,7 @@ padding-bottom: 0;
 }
 
 #title {
-	text-align: center;
+	
 	font-size: 2em;
 	color: #fff;
 	text-shadow:1.5px 1.5px 1.5px #222;
@@ -124,7 +124,7 @@ padding-top: 15px;
 
 	#menu 
 	{
-		width:90%;
+		/*width:90%;*/
 	}
 }
 
